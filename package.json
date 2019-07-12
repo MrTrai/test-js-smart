@@ -1,0 +1,25 @@
+{
+  "name": "test-js-smart",
+  "version": "1.0.0",
+  "description": "Test JS-Smart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTrai/test-js-smart.git"
+  },
+  "keywords": [
+    "js-smart"
+  ],
+  "author": "Trai Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrTrai/test-js-smart/issues"
+  },
+  "homepage": "https://github.com/MrTrai/test-js-smart#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
