@@ -12,5 +12,4 @@ axios.get("foo")
         }
     })
     .catch((err) => {
-
     });
