@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "escape-html": "^1.0.3",
     "serve-static": "^1.12.4",
     "uuid": "^3.1.0"
